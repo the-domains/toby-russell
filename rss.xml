@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Toby Russell]]></title>
+        <description><![CDATA[Toby Russell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 13:58:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome One & All to the daily ramblings of Toby</p>]]></description>
+            <link>undefinedwelcome-one-and-all-to-the-daily-ramblings-of-toby/index.html</link>
+            <guid isPermaLink="false">062bbcfc-b11b-4504-b6fb-aa550295cd9b</guid>
+            <pubDate>Sat, 18 Jun 2016 13:58:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
