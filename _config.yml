@@ -1,29 +1,41 @@
-name: Toby Russell
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50278
 title: The Daily Ramblings Of Toby
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3091807754244655
+  brandStrength: 0.7353644
+  lightness: 0.4510433136019856
   brandColors:
     - '#fbfff4'
     - '#270f25'
     - '#b0c5c8'
     - '#583a44'
     - '#b59d85'
-  brandStrength: 0.5681783193722367
-  lightness: 0.4510433136019856
-  saturation: 0.30918077542446554
   rhythmicContrast: 0.52381512359716
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Toby Russell
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8082437
+layout_spectrum: 1
