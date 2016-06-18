@@ -1,0 +1,28 @@
+name: Toby Russell
+favicon: null
+layout_spectrum: 0.48834688193164766
+typography_spectrum: 0.8465635429602116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5681783193722367
+  lightness: 0.4510433136019856
+  saturation: 0.30918077542446554
+  rhythmicContrast: 0.52381512359716
+purpose: []
